@@ -1,6 +1,6 @@
 # TP2-NLP-con-BERT-y-RoBERTa
 
-**Autor:**Brito, Fred
+**Autor:** Brito, Fred
 
 **Resumen:** Este proyecto trata sobre el análisis de tuits, con el objetivo de realizar un Análisis de Sentimiento utilizando los modelos pre-entrenados BERT y RoBERTa, para luego implementar nuestro propio modelo de predección de sentimientos. 
 
